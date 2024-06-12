@@ -1,2 +1,2 @@
-echo "#!/bin/bash" > 0-iam_betty
+#!/bin/bash
 echo "su -betty" >> 0-iam_betty
